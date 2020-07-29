@@ -1,7 +1,3 @@
-### Hi there 👋 I am Juan
-
-I use computers to understand microbes
-
 <img src="https://github.com/juanvillada/juanvillada.github.io/blob/master/img/github_page.png" width="700px">
 
 
@@ -18,4 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### Hi there 👋 I am Juan
+
+I use computers to understand microbes
 -->
