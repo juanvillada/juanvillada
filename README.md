@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I am Juan
+
+I use computers to understand microbes
+
+<img src="https://github.com/juanvillada/juanvillada.github.io/blob/master/img/github_page.png" width="700px">
+
 
 <!--
 **juanvillada/juanvillada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
