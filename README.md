@@ -1,4 +1,4 @@
-# Hi there! 👍🏽 I am Juan
+# Hi there! 👍🏽 I am Juan 🌱
 
 -  😄    I am happy when I use computers 🖥️ to inspect 🕵🏼 microbes 🦠
 -  🔭    I’m interested in understanding how phenotypes 🕺🏼💃🏾🏋🏾‍♀️ are encoded in genetic sequences 🧬🧬
