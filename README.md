@@ -1,12 +1,12 @@
-# Hi there! 👍🏽 I am Juan 🌱
+# Hi! I am Juan 👍🏽
 
--  😄    I enjoy using computers 🖥️ to investigate 🕵🏼 microbes 🦠
--  🔭    I’m interested in understanding how phenotypes 🕺🏼💃🏾🏋🏾‍♀️ are encoded in genetic sequences 🧬🧬
+- I use computers to investigate microbial metabolism and genomes
+- I am interested in understanding how phenotypes are encoded in genetic sequences
 
 -------------------
 
--  🧑🏻‍🔬     Check my research work: [Google Scholar](https://scholar.google.com/citations?user=QOOpwFIAAAAJ&hl=en)
--  📟    Reach me:  🐦 [@astrogenomics](https://twitter.com/astrogenomics)  
+- Check my research work: [Google Scholar](https://scholar.google.com/citations?user=QOOpwFIAAAAJ&hl=en)
+- [@astrogenomics](https://twitter.com/astrogenomics) 🐦
 
 
 <img src="https://github.com/juanvillada/juanvillada.github.io/blob/master/img/github_page.png" width="700px">
