@@ -1,6 +1,6 @@
 # Hi! I am Juan 👍🏽
 
-- I use computers to investigate microbial metabolism and genomes
+- I use computers to investigate microbial genomes and microbial metabolism 
 - I am interested in understanding how phenotypes are encoded in genetic sequences
 
 -------------------
@@ -10,22 +10,3 @@
 
 
 <img src="https://github.com/juanvillada/juanvillada.github.io/blob/master/img/github_page.png" width="700px">
-
-
-<!--
-**juanvillada/juanvillada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ... 
-- 😄 Pronouns: ... 
-- ⚡ Fun fact: ...  
-
-### Hi there 
-
-I use computers to understand microbes
--->
