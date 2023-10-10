@@ -11,3 +11,4 @@
 
 <img src="https://github.com/juanvillada/juanvillada.github.io/blob/master/img/github_page.png" width="700px">
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanvillada&size_weight=0.5&count_weight=0.5)
