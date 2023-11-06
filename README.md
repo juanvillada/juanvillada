@@ -1,12 +1,10 @@
 # Hi! I am Juan 👍🏽
 
-![Twitter Follow](https://img.shields.io/twitter/follow/astrogenomics?style=social)
-
 <img src="https://github.com/juanvillada/juanvillada.github.io/blob/master/img/github_page.png" width="300px">
 
 My research:
 - Microbial genomes and metabolism 
-- How phenotypes are encoded in genetic sequences?
+- How are phenotypes encoded in genetic sequences?
 - [Google Scholar](https://scholar.google.com/citations?user=T-LwsdoAAAAJ&hl=en)
 
 
