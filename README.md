@@ -2,7 +2,6 @@
 
 <img src="https://github.com/juanvillada/juanvillada.github.io/blob/master/img/github_page.png" width="300px">
 
-My research:
 - How is global metabolism encoded in microbial genomes and microbiomes?
 - How are coding sequences naturally and synthetically optimized?
 - How do we deter, detect, and defend against harmful coding sequences that can control metabolism?
