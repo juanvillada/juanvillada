@@ -1,10 +1,12 @@
-# Hi! I am Juan 👍🏽
+# Hi! I am Juan.
 
 <img src="https://github.com/juanvillada/juanvillada.github.io/blob/master/img/github_page.png" width="300px">
 
 My research:
-- Microbial genomes and metabolism 
+- How is metabolism encoded in microbial genomes and microbiomes?
 - How are phenotypes encoded in genetic sequences?
+- How are coding sequences naturally and synthetically optimized?
+- How do we keep an eye on harmful DNA sequences?
 - [Google Scholar](https://scholar.google.com/citations?user=T-LwsdoAAAAJ&hl=en)
 
 
